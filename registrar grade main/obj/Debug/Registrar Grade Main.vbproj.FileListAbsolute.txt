@@ -1,0 +1,656 @@
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\bin\Debug\MySql.Data.dll
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addCourse.resources
+C:\Users\Asus\source\repos\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.CoreCompileInputs.cache
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Debug\MySql.Data.dll
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addlevel.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addlevel.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_deleteAccount.resources
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_editAccount.resources
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_searchAccount.resources
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_changePass.resources
+C:\Users\cliff\Desktop\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_enterPass.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\bin\Debug\MySql.Data.dll
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addlevel.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_changePass.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_deleteAccount.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_editAccount.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_enterPass.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_searchAccount.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.CoreCompileInputs.cache
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\ezeki_000\Desktop\Visual Studio Case Study\Registrar Grade 02-10-18 update\Registrar Grade 02-10-18 update\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addlevel.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_changePass.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_deleteAccount.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_editAccount.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_enterPass.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_searchAccount.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-10-18 build 2\Registrar Grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addlevel.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_changePass.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_deleteAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_editAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_enterPass.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_searchAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade 02-10-18 build 2\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addlevel.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_changePass.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_deleteAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_editAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_enterPass.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_searchAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar-Grade-02-13-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addlevel.resources
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_changePass.resources
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_deleteAccount.resources
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_editAccount.resources
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_enterPass.resources
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_searchAccount.resources
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\cliff\Desktop\New folder (2)\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addlevel.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_changePass.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_deleteAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_editAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_enterPass.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_searchAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-14-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_aboutUs.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_aboutUs.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addlevel.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_changePass.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_deleteAccount.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_editAccount.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_enterPass.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_searchAccount.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\cliff\Desktop\Registrar Grade 02-20-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\bin\Debug\MySql.Data.dll
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_aboutUs.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addlevel.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_changePass.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_deleteAccount.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_editAccount.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_enterPass.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_searchAccount.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.CoreCompileInputs.cache
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 02-22-18 update\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_aboutUs.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addlevel.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_changePass.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_deleteAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_editAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_enterPass.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_searchAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 02-24-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_aboutUs.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addlevel.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_changePass.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_deleteAccount.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_editAccount.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_enterPass.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_searchAccount.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\cliff\Desktop\Registrar Grade 02-27-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_xlProgressBarr.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_aboutUs.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addlevel.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_changePass.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_deleteAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_editAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_enterPass.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_searchAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_xlProgressBarr.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\bin\Debug\MySql.Data.dll
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_aboutUs.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addlevel.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_changePass.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_deleteAccount.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_editAccount.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_enterPass.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_searchAccount.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_viewArchived.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_xlProgressBarr.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.CoreCompileInputs.cache
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-04-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_viewArchived.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_aboutUs.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_changePass.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_deleteAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_editAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_enterPass.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_searchAccount.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_viewArchived.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_xlProgressBarr.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\bin\Debug\MySql.Data.dll
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_aboutUs.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_changePass.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_deleteAccount.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_editAccount.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_enterPass.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_searchAccount.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_viewArchived.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_xlProgressBarr.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.CoreCompileInputs.cache
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\ezeki_000\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addGradeLevel.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade 03-08-18\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addGradeLevel.resources
+C:\Users\cliff\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_aboutUs.resources
+C:\Users\cliff\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addGradeLevel.resources
+C:\Users\cliff\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_viewArchived.resources
+C:\Users\cliff\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_xlProgressBarr.resources
+C:\Users\cliff\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\db_registrarDataSet.Designer.vb
+C:\Users\cliff\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\db_registrarDataSet.xsc
+C:\Users\cliff\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\db_registrarDataSet.xsd
+C:\Users\cliff\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\db_registrarDataSet.xss
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\db_registrarDataSet.Designer.vb
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\db_registrarDataSet.xsc
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\db_registrarDataSet.xsd
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\db_registrarDataSet.xss
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe.config
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.exe
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.pdb
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\Registrar Grade Main.xml
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbprojAssemblyReference.cache
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_aboutUs.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addGradeLevel.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_addUser.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_changePass.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_deleteAccount.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_editAccount.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_enterPass.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_login.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_main.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_removeStudent.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_searchAccount.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_splash.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_viewArchived.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.frm_xlProgressBarr.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar_Grade_Main.Resources.resources
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.GenerateResource.cache
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.vbproj.CopyComplete
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.xml
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.pdb
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\netstandard.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.AppContext.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Collections.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.ComponentModel.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Console.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Data.Common.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Globalization.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.IO.Compression.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.IO.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.IO.Pipes.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Linq.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Net.Http.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Net.Ping.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Net.Primitives.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Net.Requests.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Net.Security.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Net.Sockets.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.ObjectModel.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Reflection.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Resources.Reader.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Resources.Writer.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Runtime.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Security.Claims.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Security.Principal.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Security.SecureString.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Text.Encoding.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Threading.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Threading.Thread.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Threading.Timer.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.ValueTuple.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Xml.XPath.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\Google.Protobuf.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\MySql.Data.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\Renci.SshNet.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Buffers.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Memory.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\Zstandard.Net.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\Google.Protobuf.pdb
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\Google.Protobuf.xml
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\MySql.Data.xml
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\Renci.SshNet.xml
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Buffers.xml
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Memory.xml
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\obj\Debug\Registrar Grade Main.exe.config
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\EntityFramework.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\EntityFramework.xml
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cliff Marbella\Desktop\Registrar grade\Registrar Grade Main\bin\Debug\MySql.Data.Entity.EF6.xml

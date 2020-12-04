@@ -1,0 +1,21 @@
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Release\Registrar Grade Main.exe.config
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Release\Registrar Grade Main.exe
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Release\Registrar Grade Main.pdb
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Release\Registrar Grade Main.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Release\MySql.Data.dll
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\bin\Release\MySql.Data.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Release\Registrar Grade Main.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Release\Registrar_Grade_Main.frm_addCourse.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Release\Registrar_Grade_Main.frm_addInstructor.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Release\Registrar_Grade_Main.frm_addStudent.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Release\Registrar_Grade_Main.frm_addSubject.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Release\Registrar_Grade_Main.frm_dbSettings.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Release\Registrar_Grade_Main.frm_login.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Release\Registrar_Grade_Main.frm_main.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Release\Registrar_Grade_Main.frm_splash.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Release\Registrar_Grade_Main.Resources.resources
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Release\Registrar Grade Main.vbproj.GenerateResource.Cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Release\Registrar Grade Main.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Release\Registrar Grade Main.exe
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Release\Registrar Grade Main.xml
+C:\Users\Asus\Dropbox (Personal)\Visual Studio\Registrar Grade\Registrar Grade Main\obj\Release\Registrar Grade Main.pdb

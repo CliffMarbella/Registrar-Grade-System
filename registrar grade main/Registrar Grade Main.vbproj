@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D06F52D0-D2F0-4BE4-A5D0-D30424D03B60}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Registrar_Grade_Main.My.MyApplication</StartupObject>
+    <RootNamespace>Registrar_Grade_Main</RootNamespace>
+    <AssemblyName>Registrar Grade Main</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Registrar Grade Main.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Registrar Grade Main.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.3.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.3.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.11.4.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.11.4\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.1.11.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.1.11\lib\net46\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.1.11.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.1.11\lib\net46\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.6\lib\net46\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.22.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.22\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity.EF6, Version=6.10.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.Entity.6.10.9\lib\net452\MySql.Data.Entity.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="Renci.SshNet, Version=2016.1.0.0, Culture=neutral, PublicKeyToken=1cee9f8bde3db106, processorArchitecture=MSIL">
+      <HintPath>..\packages\SSH.NET.2016.1.0\lib\net40\Renci.SshNet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.3\lib\netstandard2.0\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.4.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.22\lib\net452\Ubiety.Dns.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Zstandard.Net, Version=1.1.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.22\lib\net452\Zstandard.Net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="db_registrarDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>db_registrarDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frm_aboutUs.Designer.vb">
+      <DependentUpon>frm_aboutUs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_aboutUs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="frm_addGradelevel.Designer.vb">
+      <DependentUpon>frm_addGradelevel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_addGradelevel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_addInstructor.Designer.vb">
+      <DependentUpon>frm_addInstructor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_addInstructor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_addStudent.Designer.vb">
+      <DependentUpon>frm_addStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_addStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_addSubject.Designer.vb">
+      <DependentUpon>frm_addSubject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_addSubject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_addUser.Designer.vb">
+      <DependentUpon>frm_addUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_addUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_backup.Designer.vb">
+      <DependentUpon>frm_backup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_backup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_changePass.Designer.vb">
+      <DependentUpon>frm_changePass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_changePass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_dbSettings.Designer.vb">
+      <DependentUpon>frm_dbSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_dbSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_deleteAccount.Designer.vb">
+      <DependentUpon>frm_deleteAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_deleteAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_editAccount.Designer.vb">
+      <DependentUpon>frm_editAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_editAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_enterPass.Designer.vb">
+      <DependentUpon>frm_enterPass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_enterPass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_login.Designer.vb">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_main.Designer.vb">
+      <DependentUpon>frm_main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_removeStudent.Designer.vb">
+      <DependentUpon>frm_removeStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_removeStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_searchAccount.Designer.vb">
+      <DependentUpon>frm_searchAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_searchAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_splash.Designer.vb">
+      <DependentUpon>frm_splash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_viewArchived.Designer.vb">
+      <DependentUpon>frm_viewArchived.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_viewArchived.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_xlProgressBarr.Designer.vb">
+      <DependentUpon>frm_xlProgressBarr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_xlProgressBarr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="VBCore.vb" />
+    <Compile Include="VBExcelExport.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frm_aboutUs.resx">
+      <DependentUpon>frm_aboutUs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_addGradelevel.resx">
+      <DependentUpon>frm_addGradelevel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_addInstructor.resx">
+      <DependentUpon>frm_addInstructor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_addStudent.resx">
+      <DependentUpon>frm_addStudent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_addSubject.resx">
+      <DependentUpon>frm_addSubject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_addUser.resx">
+      <DependentUpon>frm_addUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_changePass.resx">
+      <DependentUpon>frm_changePass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_dbSettings.resx">
+      <DependentUpon>frm_dbSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_deleteAccount.resx">
+      <DependentUpon>frm_deleteAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_editAccount.resx">
+      <DependentUpon>frm_editAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_enterPass.resx">
+      <DependentUpon>frm_enterPass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_login.resx">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_main.resx">
+      <DependentUpon>frm_main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_removeStudent.resx">
+      <DependentUpon>frm_removeStudent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_searchAccount.resx">
+      <DependentUpon>frm_searchAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_splash.resx">
+      <DependentUpon>frm_splash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_viewArchived.resx">
+      <DependentUpon>frm_viewArchived.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_xlProgressBarr.resx">
+      <DependentUpon>frm_xlProgressBarr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="db_registrarDataSet.xsc">
+      <DependentUpon>db_registrarDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="db_registrarDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>db_registrarDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="db_registrarDataSet.xss">
+      <DependentUpon>db_registrarDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\profile_default.png" />
+    <None Include="Resources\splash_screen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lock Icont.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Splash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Main.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
